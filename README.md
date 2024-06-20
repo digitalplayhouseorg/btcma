@@ -1,2 +1,0 @@
-# btcma
-bitcoinmeetupsaustralia
